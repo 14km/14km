@@ -10,7 +10,7 @@
 
   <ul>
     <li>Backend Developer</li>
-    <li>Soongsil University - Media Management</li>
+    <li>Soongsil University - Media Management (2019~)</li>
     <li>Enjoy reading books. 😄</li>
   </ul>
 
