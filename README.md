@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+<h3>
+  MinTae Kim
+</h3>
 
-<!-- 
-Soongsil University - Media Management-->
+<ul>
+    <li>Soongsil University - Media Management</li>
+</ul>
 
 <!-- Contact -->
   <div align=center>
