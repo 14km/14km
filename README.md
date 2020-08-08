@@ -6,13 +6,12 @@
   
   </div>
 
-<h3>
-  MinTae Kim
-</h3>
+  ### MinTae Kim..
 
   <ul>
     <li>Backend Developer</li>
     <li>Soongsil University - Media Management</li>
+    <li>Enjoy reading books. 😄</li>
   </ul>
 
 
@@ -28,7 +27,7 @@
   </div>
   
   
-<!-- statistics -->
+<!-- statistics - username=*  -->
 ## Statistics
   <div align=center>
   
