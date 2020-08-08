@@ -16,6 +16,8 @@
 
 
 <!-- Contact -->
+<!-- https://simpleicons.org/ --\>
+<!-- https://img.shields.io/badge/IconName-Color?style=flat-square&logo=IconName&logoColor=white&link=* -->
 ## Contact & Profile
   <div align=left>
   
@@ -34,6 +36,9 @@
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-connor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
+
+
+
 
 <!--
 **K-Connor/K-connor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
