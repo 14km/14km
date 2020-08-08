@@ -5,7 +5,8 @@
 </h3>
 
   <ul>
-      <li>Soongsil University - Media Management</li>
+    <li>Backend Developer</li>
+    <li>Soongsil University - Media Management</li>
   </ul>
 
 <!-- Contact -->
