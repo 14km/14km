@@ -11,7 +11,7 @@
 <!-- Contact -->
 
 ## Contact & Profile
-  <div align=center>
+  <div align=left>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k.connor614@gmail.com)](mailto:k.connor614@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintae-kim-b1a627187/)](https://www.linkedin.com/in/mintae-kim-b1a627187/)
