@@ -14,8 +14,8 @@
     <li>Enjoy Reading Books.. 😄</li>
   </ul>
 
-<!-- Skills -->
-## Skills
+<!-- Favorite Skills -->
+## Favorite Skills
   <div align=left>
   
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://php.net)
