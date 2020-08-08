@@ -4,9 +4,9 @@
   MinTae Kim
 </h3>
 
-<ul>
-    <li>Soongsil University - Media Management</li>
-</ul>
+  <ul>
+      <li>Soongsil University - Media Management</li>
+  </ul>
 
 <!-- Contact -->
   <div align=center>
