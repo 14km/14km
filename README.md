@@ -14,6 +14,13 @@
     <li>Enjoy Reading Books.. 😄</li>
   </ul>
 
+<!-- Skills -->
+## Skills
+  <div align=left>
+  
+  [![laravel Badge](https://img.shields.io/badge/laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)]
+  </div>
+
 
 <!-- Contact -->
 <!-- https://simpleicons.org/ --\>
