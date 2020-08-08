@@ -6,6 +6,12 @@
   
   </div>
 
+  <div align=center>
+  
+  ![Main dot image](https://github.com/K-Connor/K-connor/blob/master/profile-dotimg.gif)
+  
+  </div>
+
   ### MinTae Kim..✨
 
   <ul>
