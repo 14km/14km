@@ -22,6 +22,7 @@
   </div>
   
   <!-- statistics -->
+## Statistics
   <div align=center>
   
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
