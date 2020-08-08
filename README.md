@@ -15,8 +15,8 @@
     <li>Soongsil University - Media Management</li>
   </ul>
 
-<!-- Contact -->
 
+<!-- Contact -->
 ## Contact & Profile
   <div align=left>
   
@@ -27,7 +27,8 @@
 
   </div>
   
-  <!-- statistics -->
+  
+<!-- statistics -->
 ## Statistics
   <div align=center>
   
