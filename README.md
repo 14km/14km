@@ -12,13 +12,17 @@ Soongsil University - Media Management-->
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintae-kim-b1a627187/)](https://www.linkedin.com/in/mintae-kim-b1a627187/)
 
   </div>
+  
+  <!-- statistics -->
+  <div>
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- Hits.. -->
+  <!-- Hits.. -->
   <div align=right>  
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-Connor)](https://hits.seeyoufarm.com)
