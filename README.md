@@ -27,6 +27,8 @@
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://php.net)
   [![laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)](https://laravel.com/)
   [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Javascript Badge](https://img.shields.io/badge/Jypescript-235A97?style=flat-square&logo=Jypescript&logoColor=white)](https://javascript.info/)
+
   </div>
 
 
