@@ -28,6 +28,9 @@
   [![laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)](https://laravel.com/)
   [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
   [![Javascript Badge](https://img.shields.io/badge/Jypescript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
+  [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
+  [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+  
 
   </div>
 
