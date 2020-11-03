@@ -16,6 +16,7 @@
 
   <ul>
     <li>Backend Developer</li>
+    <li>kurly - Developer (2020.08 ~)</li>
     <li>Soongsil University - Media Management (2019~)</li>
     <li>Enjoy Reading Books.. 😄</li>
   </ul>
