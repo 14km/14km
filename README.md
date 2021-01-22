@@ -31,6 +31,7 @@
   [![Javascript Badge](https://img.shields.io/badge/Jypescript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
   [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
   [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+  [![AWS Badge](https://img.shields.io/badge/Aws-0095D5?style=flat-square&logo=Aws&logoColor=white)](https://aws.amazon.com/)
   
 
   </div>
