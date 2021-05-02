@@ -2,13 +2,13 @@
   <!-- Hits.. -->
   <div align=right>  
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FK-Connor)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F14km)](https://hits.seeyoufarm.com)
   
   </div>
 
   <div align=center>
   
-  ![Main dot image](https://github.com/K-Connor/K-connor/blob/master/profile-dotimg.gif)
+  ![Main dot image](https://github.com/14km/14km/blob/master/profile-dotimg.gif)
   
   </div>
 
@@ -55,12 +55,12 @@
 ## Statistics
   <div align=center>
   
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k-connor)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-connor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=14km)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14km&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 
 <!--
-**K-Connor/K-connor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**14km/14km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
