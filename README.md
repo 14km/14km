@@ -45,7 +45,6 @@
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:k.connor614@gmail.com)](mailto:k.connor614@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mintae-kim-b1a627187/)](https://www.linkedin.com/in/mintae-kim-b1a627187/)
-  [![Github Profile Badge](https://img.shields.io/badge/-github-black?style=flat-square&logo=github&logoColor=white&link=https://m2-t1-profile.github.io/profile/connor)](https://m2-t1-profile.github.io/profile/connor)
   [![Notion Profile Badge](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/connor2doc/927888a45c604213866e33931cd06686)](https://www.notion.so/connor2doc/927888a45c604213866e33931cd06686)
 
   </div>
