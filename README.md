@@ -12,8 +12,7 @@
   
   </div>
 
-  ### MinTae Kim..✨
-
+  ### MinTae - Kim Bio✨
   <ul>
     <li>Backend Developer</li>
     <li>kurly corp - Developer (2020.08 ~)</li>
@@ -21,6 +20,8 @@
     <li>Enjoy Reading Books.. 😄</li>
   </ul>
   
+  ### Hobby
+
   <ul>
     <li>@AUSG 4th Member</li>
     <li>@AUSG 5th Organizer</li>
@@ -34,15 +35,13 @@
   
   [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://php.net)
   [![laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)](https://laravel.com/)
-  [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Javascript Badge](https://img.shields.io/badge/Jypescript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/)
+<!--   [![typescript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)  -->
+<!--   [![Javascript Badge](https://img.shields.io/badge/Jypescript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)](https://javascript.info/) -->
   [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white)](https://golang.org/)
   [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
   [![AWS Badge](https://img.shields.io/badge/Aws-0095D5?style=flat-square&logo=Aws&logoColor=white)](https://aws.amazon.com/)
   
-
   </div>
-
 
 <!-- Contact -->
 <!-- https://simpleicons.org/ --\>
@@ -55,7 +54,6 @@
   [![Notion Profile Badge](https://img.shields.io/badge/-notion-black?style=flat-square&logo=notion&logoColor=white&link=https://www.notion.so/connor2doc/927888a45c604213866e33931cd06686)](https://www.notion.so/connor2doc/927888a45c604213866e33931cd06686)
 
   </div>
-  
   
 <!-- statistics - username=*  -->
 ## Statistics
