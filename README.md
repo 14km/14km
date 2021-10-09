@@ -20,6 +20,13 @@
     <li>Soongsil University - Media Management (2019~)</li>
     <li>Enjoy Reading Books.. 😄</li>
   </ul>
+  
+  <ul>
+    <li>@AUSG 4th Member</li>
+    <li>@AUSG 5th Organizer</li>
+    <li>@depromeet 9th Member</li>
+    <li>@depromeet 10th Management</li>
+  </ul>
 
 <!-- Favorite Skills -->
 ## Favorite Skills
