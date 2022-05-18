@@ -15,16 +15,16 @@
   ### MinTae - Kim Bio✨
   <ul>
     <li>Backend Developer</li>
-    <li>kurly corp - Developer (2020.08 ~)</li>
-    <li>Soongsil University - Media Management (2019~)</li>
-    <li>Enjoy Reading Books.. 😄</li>
+    <li>Kurly Corp - Developer (2020.08 ~)</li>
+    <li>Soongsil University - Media Management (2019 ~ 2023)</li>
+    <li>Enjoy Reading Books.. 😄</li> 
   </ul>
   
   ### Hobby
 
   <ul>
-    <li>@AUSG 4th Member</li>
-    <li>@AUSG 5th Organizer</li>
+    <li>@AUSG(AWSKRUG University Student Group) 4th Member</li>
+    <li>@AUSG(AWSKRUG University Student Group) 5th Organizer</li>
     <li>@depromeet 9th Member</li>
     <li>@depromeet 10th Management</li>
   </ul>
