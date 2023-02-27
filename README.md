@@ -16,6 +16,7 @@
   <ul>
     <li>Backend Developer</li>
     <li>Kurly Corp - Developer (2020.08 ~ 2022.10)</li>
+    <li>Woowa Bros. - Developer (2022.10 ~ )</li>
     <li>Soongsil University - Media Management (2019 ~ 2023)</li>
     <li>Enjoy Reading Books.. 😄</li> 
   </ul>
