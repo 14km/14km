@@ -27,6 +27,7 @@
     <li>@AUSG(AWSKRUG University Student Group) 5th Organizer</li>
     <li>@depromeet 9th Member</li>
     <li>@depromeet 10th Management</li>
+    <li>@AWSKRUG Architecture Group Organizer</li>
   </ul>
 
 <!-- Favorite Skills -->
